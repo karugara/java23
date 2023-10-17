@@ -8,6 +8,6 @@ public class ManejoVar {
         boolean bool2 = false;
         System.out.println("el valor de bool1 es: " + bool1);
         System.out.println("el valor de bool2 es: " + bool2);
-        System.out.println("");
+
     }
 }
